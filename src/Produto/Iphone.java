@@ -14,7 +14,7 @@ public class Iphone implements AparelhoCelular, Navegador, Musica {
         System.out.println("Atendendo a ligação");
     }
 
-    public void iniciarCorreioVoz() {
+    public void CorreioVoz() {
         System.out.println("Reproduzindo correio de voz");
     }
 

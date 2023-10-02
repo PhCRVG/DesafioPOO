@@ -6,5 +6,5 @@ public interface AparelhoCelular {
 
     public void atender();
 
-    public void iniciarCorreioVoz();
+    public void CorreioVoz();
 }

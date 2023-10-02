@@ -8,7 +8,7 @@ public class Main {
 
         iphone.ligar("70707070");
         iphone.atender();
-        iphone.iniciarCorreioVoz();
+        iphone.CorreioVoz();
 
         iphone.tocar("Flowers - Miley Cyrus");
         iphone.pausar();
