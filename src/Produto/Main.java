@@ -6,7 +6,7 @@ public class Main {
 
         Iphone iphone = new Iphone();
 
-        iphone.ligar("40028922");
+        iphone.ligar("70707070");
         iphone.atender();
         iphone.iniciarCorreioVoz();
 
